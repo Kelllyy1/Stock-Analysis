@@ -1,0 +1,7 @@
+This file covers retrieving the stock price of the desired stock from Yahoo Finance using the python module yfinance.
+
+Next Steps:
+  - Achieve the same goal using web scraping with tools such as requests, Beautiful Soup
+  - Create a portfolio of stocks (not just one)
+  - Maybe host it on a website/ some type of UI
+  - Use another application like Tiingo to achieve the same purpose
